@@ -1,0 +1,4 @@
+total sale: $15057.61
+popular fruit: grapes
+average value: 15.05761
+biggest spender: Person59
